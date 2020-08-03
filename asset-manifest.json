@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/monster-rodolex/static/css/main.bbccd4ba.chunk.css",
-    "main.js": "/monster-rodolex/static/js/main.c7000e6e.chunk.js",
-    "main.js.map": "/monster-rodolex/static/js/main.c7000e6e.chunk.js.map",
-    "runtime-main.js": "/monster-rodolex/static/js/runtime-main.af849cd9.js",
-    "runtime-main.js.map": "/monster-rodolex/static/js/runtime-main.af849cd9.js.map",
-    "static/js/2.422b15d8.chunk.js": "/monster-rodolex/static/js/2.422b15d8.chunk.js",
-    "static/js/2.422b15d8.chunk.js.map": "/monster-rodolex/static/js/2.422b15d8.chunk.js.map",
-    "index.html": "/monster-rodolex/index.html",
-    "precache-manifest.b8e03123ee5d236f60858ece99f4f624.js": "/monster-rodolex/precache-manifest.b8e03123ee5d236f60858ece99f4f624.js",
-    "service-worker.js": "/monster-rodolex/service-worker.js",
-    "static/css/main.bbccd4ba.chunk.css.map": "/monster-rodolex/static/css/main.bbccd4ba.chunk.css.map",
-    "static/js/2.422b15d8.chunk.js.LICENSE.txt": "/monster-rodolex/static/js/2.422b15d8.chunk.js.LICENSE.txt"
+    "main.css": "/practice-monster-rodolex/static/css/main.bbccd4ba.chunk.css",
+    "main.js": "/practice-monster-rodolex/static/js/main.e7502f9c.chunk.js",
+    "main.js.map": "/practice-monster-rodolex/static/js/main.e7502f9c.chunk.js.map",
+    "runtime-main.js": "/practice-monster-rodolex/static/js/runtime-main.5f0c15ad.js",
+    "runtime-main.js.map": "/practice-monster-rodolex/static/js/runtime-main.5f0c15ad.js.map",
+    "static/js/2.422b15d8.chunk.js": "/practice-monster-rodolex/static/js/2.422b15d8.chunk.js",
+    "static/js/2.422b15d8.chunk.js.map": "/practice-monster-rodolex/static/js/2.422b15d8.chunk.js.map",
+    "index.html": "/practice-monster-rodolex/index.html",
+    "precache-manifest.0377e608bbeb18862f9fc9358f2fad02.js": "/practice-monster-rodolex/precache-manifest.0377e608bbeb18862f9fc9358f2fad02.js",
+    "service-worker.js": "/practice-monster-rodolex/service-worker.js",
+    "static/css/main.bbccd4ba.chunk.css.map": "/practice-monster-rodolex/static/css/main.bbccd4ba.chunk.css.map",
+    "static/js/2.422b15d8.chunk.js.LICENSE.txt": "/practice-monster-rodolex/static/js/2.422b15d8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.af849cd9.js",
+    "static/js/runtime-main.5f0c15ad.js",
     "static/js/2.422b15d8.chunk.js",
     "static/css/main.bbccd4ba.chunk.css",
-    "static/js/main.c7000e6e.chunk.js"
+    "static/js/main.e7502f9c.chunk.js"
   ]
 }
